@@ -1,386 +1,260 @@
-
-<!-- ===================================================== -->
-<!-- README.md — Prajwal Mane | GitHub Profile           -->
-<!-- Username: maneprajwal006-alt                        -->
-<!-- ===================================================== -->
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Prajwal%20Mane&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descAlign=50" alt="Header" width="100%" />
 
-<!-- HERO HEADER (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=230&section=header&text=Prajwal%20Mane&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
-
-<!-- TYPING ANIMATION (readme-typing-svg) -->
-<a href="https://github.com/maneprajwal006-alt">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Web+Developer+%7C+HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Problem+Solver+%7C+DSA+Learner;Future+Full-Stack+Developer" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Rank-1-00C6FF?style=for-the-badge&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/SGPA-9.59-6F42C1?style=for-the-badge&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-2c5364?style=for-the-badge&labelColor=0f2027" />
-
+  <a href="https://github.com/maneprajwal006-alt">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Web+Developer;Problem+Solver;Future+Full-Stack+Developer;Code+to+Learn" alt="Typing SVG" />
+  </a>
 </div>
 
-<br/>
+<br>
 
-<!-- ===================================================== -->
-<!-- PROFILE / CODING VISUAL                                -->
-<!-- ===================================================== -->
-<table width="100%">
-<tr>
-<td width="60%" valign="middle">
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggCGvnPvdGcGcs/giphy.gif" alt="Coding GIF" width="250" style="border-radius: 15px;" />
+</div>
 
-### 👋 About Me
+<br>
 
-I'm **Prajwal Mane**, a Computer Science Engineering student who enjoys turning ideas into working, well-structured code. I'm building a strong foundation in frontend development while actively moving into **backend development, REST APIs, and Data Structures & Algorithms** — with the long-term goal of becoming a confident **Full-Stack Developer**.
+<h2 align="center">🚀 About Me</h2>
 
-I like clean UI, logical problem-solving, and learning things properly rather than just fast.
-
-<table width="100%">
-<tr>
-<td align="center">🎓<br/><b>CSE Student</b></td>
-<td align="center">💻<br/><b>Web Dev</b></td>
-<td align="center">🌐<br/><b>Frontend</b></td>
-<td align="center">⚡<br/><b>JavaScript</b></td>
-</tr>
-<tr>
-<td align="center">⚙️<br/><b>Backend</b></td>
-<td align="center">🧠<br/><b>DSA</b></td>
-<td align="center">🚀<br/><b>Projects</b></td>
-<td align="center">🏆<br/><b>Hackathons</b></td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>Hey there! 👋</h3>
+      <p>I am a passionate <strong>Computer Science Engineering</strong> student at the Ashokrao Mane Group of Institutions. I have a strong foundation in frontend development and am actively expanding my skill set to become a Full-Stack Developer. I thrive on problem-solving, building real-world projects, and constantly learning new technologies.</p>
+      <p>My core focus right now is mastering <strong>JavaScript, Node.js, and Data Structures & Algorithms</strong> to build robust, scalable applications.</p>
+    </td>
+    <td width="40%" valign="top">
+      <h3>⚡ Quick Facts</h3>
+      <ul>
+        <li>🎓 <strong>Education:</strong> B.Tech CSE</li>
+        <li>💻 <strong>Domain:</strong> Web Development</li>
+        <li>⚡ <strong>Focus:</strong> JavaScript, Node.js</li>
+        <li>⚙️ <strong>Backend:</strong> Express & REST APIs</li>
+        <li>🧠 <strong>Core:</strong> DSA & Problem Solving</li>
+        <li>🚀 <strong>Status:</strong> Building Projects</li>
+        <li>🏆 <strong>Goal:</strong> Hackathons & Open Source</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-</td>
-<td width="40%" align="center">
+<br>
 
-<!-- Replace the src below with your own photo/GIF URL whenever you like -->
-<!-- Example: <img src="https://raw.githubusercontent.com/maneprajwal006-alt/maneprajwal006-alt/main/assets/profile.png" width="260"/> -->
-<img src="https://raw.githubusercontent.com/aditya-mundhe/aditya-mundhe/output/snake.svg" width="1" height="1"/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280"/>
+<h2 align="center">🛤️ Developer Journey</h2>
+<div align="center">
+  <p>
+    <kbd>HTML</kbd> ➔ <kbd>CSS</kbd> ➔ <kbd>Bootstrap</kbd> ➔ <kbd>JavaScript</kbd> ➔ <kbd>Node.js</kbd> ➔ <kbd>Express.js</kbd> ➔ <kbd>REST APIs</kbd> ➔ <kbd>Backend</kbd> ➔ <kbd>DSA</kbd> ➔ <kbd>Full Stack</kbd>
+  </p>
+</div>
 
-</td>
-</tr>
+<br>
+
+<h2 align="center">🛠️ My Tech Stack</h2>
+
+<div align="center">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" alt="Frontend Skills" />
+  <br>
+  
+  <h3>Programming & Backend</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,nodejs,express" alt="Backend Skills" />
+  <br>
+
+  <h3>Tools & Version Control</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" alt="Tools" />
+</div>
+
+<br>
+
+<h2 align="center">💻 Project Showcase</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔗 Linktree Clone</h3>
+      <p>A responsive Linktree-style website for displaying social media and personal links.</p>
+      <p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
+      <p><strong>Features:</strong> Responsive design, Modern UI, JavaScript interactions.</p>
+      <div align="center">
+        <a href="YOUR_LINKTREE_REPOSITORY_URL"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Apna College Clone</h3>
+      <p>A responsive educational website created to practice frontend development and website layout.</p>
+      <p><strong>Technologies:</strong> HTML, CSS, Bootstrap</p>
+      <p><strong>Features:</strong> Responsive layout, Modern UI, Bootstrap components.</p>
+      <div align="center">
+        <a href="YOUR_APNA_COLLEGE_REPOSITORY_URL"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌤️ Weather App</h3>
+      <p>A weather application that fetches real-time weather information using an API.</p>
+      <p><strong>Technologies:</strong> HTML, CSS, JavaScript, API</p>
+      <p><strong>Features:</strong> API integration, Dynamic weather info, Responsive UI.</p>
+      <div align="center">
+        <a href="YOUR_WEATHER_APP_REPOSITORY_URL"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Amazon Clone</h3>
+      <p>A frontend e-commerce project created to practice website layouts and responsive design.</p>
+      <p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
+      <p><strong>Features:</strong> E-commerce UI, Responsive design, DOM manipulation.</p>
+      <div align="center">
+        <a href="YOUR_AMAZON_CLONE_REPOSITORY_URL"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+      </div>
+    </td>
+  </tr>
 </table>
 
-<!-- ===================================================== -->
-<!-- DEVELOPER JOURNEY                                      -->
-<!-- ===================================================== -->
+<br>
 
-## 🧭 Developer Journey
+<h2 align="center">🏆 Achievements & Certifications</h2>
 
-<div align="center">
-
-`HTML` → `CSS` → `Bootstrap` → `JavaScript` → `Node.js` → `Express.js` → `REST APIs` → `Backend Development` → `DSA` → **`Full-Stack Development`**
-
-</div>
-
-<br/>
-
-<!-- ===================================================== -->
-<!-- TECH STACK                                             -->
-<!-- ===================================================== -->
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
-
-<br/><br/>
-
-**Programming Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,js" />
-
-<br/><br/>
-
-**Backend & Currently Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br/><br/>
-
-**Computer Science Fundamentals**
-<br/>
-<img src="https://img.shields.io/badge/Data%20Structures-0f2027?style=flat-square&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/Algorithms-2c5364?style=flat-square&labelColor=2c5364" />
-<img src="https://img.shields.io/badge/OOP-00C6FF?style=flat-square&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/Problem%20Solving-6F42C1?style=flat-square&labelColor=0f2027" />
-
-<br/><br/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
-
-</div>
-
-<br/>
-
-<!-- ===================================================== -->
-<!-- PROJECT SHOWCASE                                       -->
-<!-- ===================================================== -->
-
-## 🚀 Project Showcase
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 Linktree Clone
-A responsive Linktree-style website for displaying social media and personal links.
-
-**Tech:** HTML, CSS, JavaScript
-**Features:** Responsive design • Social links • Modern UI • JS interactions
-
-<!-- Replace # with your actual repository URL -->
-[🔗 Repository](#) &nbsp; <sub>`YOUR_LINKTREE_REPOSITORY_URL`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Apna College Clone
-A responsive educational website built to practice frontend development and layout design.
-
-**Tech:** HTML, CSS, Bootstrap
-**Features:** Responsive layout • Modern UI • Bootstrap components
-
-<!-- Replace # with your actual repository URL -->
-[🔗 Repository](#) &nbsp; <sub>`YOUR_APNACOLLEGE_REPOSITORY_URL`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌦️ Weather App
-A weather application that fetches live weather data using a weather API.
-
-**Tech:** HTML, CSS, JavaScript, API
-**Features:** API integration • Dynamic data • Responsive UI
-
-<!-- Replace # with your actual repository URL -->
-[🔗 Repository](#) &nbsp; <sub>`YOUR_WEATHERAPP_REPOSITORY_URL`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 Amazon Clone
-A frontend e-commerce project built to practice layouts, responsive design and JavaScript.
-
-**Tech:** HTML, CSS, JavaScript
-**Features:** E-commerce UI • Responsive design • Frontend logic
-
-<!-- Replace # with your actual repository URL -->
-[🔗 Repository](#) &nbsp; <sub>`YOUR_AMAZONCLONE_REPOSITORY_URL`</sub>
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🌟 Academics</h3>
+      <img src="https://img.shields.io/badge/SGPA-9.59-06B6D4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="SGPA" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Division_Rank-1-8B5CF6?style=for-the-badge&logo=trophy&logoColor=white" alt="Rank" />
+    </td>
+    <td width="50%" align="center">
+      <h3>📜 Certifications</h3>
+      <img src="https://img.shields.io/badge/C++_Essentials_1-Cisco_Networking_Academy-3B82F6?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Hackathons-Ready_to_Participate-10B981?style=for-the-badge&logo=codeforces&logoColor=white" alt="Hackathons" />
+    </td>
+  </tr>
 </table>
 
-<!-- ===================================================== -->
-<!-- ACHIEVEMENTS                                           -->
-<!-- ===================================================== -->
+<br>
 
-## 🏆 Achievements
+<h2 align="center">📈 Skill Progress & Learning</h2>
 
 <div align="center">
-
-| 🏆 SGPA | 🥇 Division Rank | 📜 Certification | 🚀 Interest |
-|:---:|:---:|:---:|:---:|
-| **9.59** | **1** | C++ Essentials 1 | Hackathons |
-
+  <p><i>Currently deeply focusing on:</i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Advanced+JavaScript;Node.js+%26+Express.js;REST+APIs+%26+Backend;Data+Structures;Algorithms;Problem+Solving" alt="Currently Learning" />
 </div>
 
-<!-- ===================================================== -->
-<!-- CERTIFICATION                                          -->
-<!-- ===================================================== -->
-
-## 📜 Certification
+<br>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/C%2B%2B%20Essentials%201-Cisco%20Networking%20Academy-00C6FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0f2027" />
-
+  <p><i>*Personal learning progress estimates, not professional ratings.</i></p>
+  <code>HTML & CSS : ████████████████████ 100%</code><br>
+  <code>Bootstrap  : ███████████████████░ 95% </code><br>
+  <code>JavaScript : ██████████████░░░░░░ 70% </code><br>
+  <code>Node.js    : ████████░░░░░░░░░░░░ 40% </code><br>
+  <code>DSA        : ███████░░░░░░░░░░░░░ 35% </code><br>
+  <code>Algorithms : ██████░░░░░░░░░░░░░░ 30% </code><br>
+  <code>Backend    : ██████░░░░░░░░░░░░░░ 30% </code><br>
 </div>
 
-<!-- ===================================================== -->
-<!-- CURRENTLY LEARNING                                     -->
-<!-- ===================================================== -->
+<br>
 
-## 📚 Currently Learning
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=600&color=6F42C1&center=true&vCenter=true&width=600&lines=JavaScript+(Advanced);Node.js+%26+Express.js;REST+APIs;Backend+Development;Data+Structures+%26+Algorithms;Problem+Solving" alt="Currently Learning" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=maneprajwal006-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maneprajwal006-alt&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
-
-<!-- ===================================================== -->
-<!-- SKILL PROGRESS                                         -->
-<!-- ===================================================== -->
-
-## 📊 Skill Progress
-
-> *These are personal learning-progress estimates, not professional or certified ratings.*
-
+<br>
 <div align="center">
-
-**HTML** `100%`
-![](https://progress-bar.xyz/100/?width=400&color=00c6ff&suffix=%20)
-
-**CSS** `100%`
-![](https://progress-bar.xyz/100/?width=400&color=00c6ff&suffix=%20)
-
-**Bootstrap** `95%`
-![](https://progress-bar.xyz/95/?width=400&color=2c9cdb&suffix=%20)
-
-**JavaScript** `70%`
-![](https://progress-bar.xyz/70/?width=400&color=6f42c1&suffix=%20)
-
-**Node.js** `40%`
-![](https://progress-bar.xyz/40/?width=400&color=6f42c1&suffix=%20)
-
-**Backend Development** `30%`
-![](https://progress-bar.xyz/30/?width=400&color=8a4fd1&suffix=%20)
-
-**Data Structures** `35%`
-![](https://progress-bar.xyz/35/?width=400&color=8a4fd1&suffix=%20)
-
-**Algorithms** `30%`
-![](https://progress-bar.xyz/30/?width=400&color=8a4fd1&suffix=%20)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneprajwal006-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
 </div>
 
-<!-- ===================================================== -->
-<!-- GITHUB STATISTICS                                      -->
-<!-- ===================================================== -->
+<br>
 
-## 📈 GitHub Statistics
-
+<h2 align="center">🏅 GitHub Trophies</h2>
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maneprajwal006-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00C6FF&icon_color=6F42C1&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneprajwal006-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00C6FF&text_color=c9d1d9" width="40%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maneprajwal006-alt&theme=tokyonight&hide_border=true&background=0f2027&stroke=00C6FF&ring=6F42C1&fire=00C6FF&currStreakLabel=00C6FF" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maneprajwal006-alt&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00C6FF&line=6F42C1&point=ffffff" width="90%" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=maneprajwal006-alt&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=maneprajwal006-alt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </div>
 
-<!-- ===================================================== -->
-<!-- CONTRIBUTION SNAKE                                     -->
-<!-- ===================================================== -->
+<br>
 
-## 🐍 Contribution Snake
-
-<!--
-  NOTE: This snake animation does not generate itself automatically.
-  You must add the "Platane/snk" GitHub Action to your profile repository
-  (maneprajwal006-alt/maneprajwal006-alt) to generate and update this SVG.
-  Repo: https://github.com/Platane/snk
--->
-
+<h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/maneprajwal006-alt/maneprajwal006-alt/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake (requires Platane/snk GitHub Action)"/>
-
+  <img src="https://raw.githubusercontent.com/maneprajwal006-alt/maneprajwal006-alt/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
-<!-- ===================================================== -->
-<!-- GITHUB TROPHIES                                        -->
-<!-- ===================================================== -->
+<br>
 
-## 🏅 GitHub Trophies
-
+<h2 align="center">🧠 Coding Philosophy</h2>
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=maneprajwal006-alt&theme=darkhub&no-frame=true&row=1&column=6" width="100%" />
-
+  <h3><i>"Don't just learn to code. Code to learn."</i></h3>
+  <br>
+  <p>
+    <kbd>💡 IDEA</kbd> ⬇️<br>
+    <kbd>📖 LEARN</kbd> ⬇️<br>
+    <kbd>🏗️ BUILD</kbd> ⬇️<br>
+    <kbd>💥 BREAK</kbd> ⬇️<br>
+    <kbd>🐛 DEBUG</kbd> ⬇️<br>
+    <kbd>✨ IMPROVE</kbd> ⬇️<br>
+    <kbd>🔁 REPEAT</kbd>
+  </p>
 </div>
 
-<!-- ===================================================== -->
-<!-- CODING PHILOSOPHY                                      -->
-<!-- ===================================================== -->
+<br>
 
-## 💭 Coding Philosophy
-
-<div align="center">
-
-### *"Don't just learn to code. Code to learn."*
-
-**IDEA** → **LEARN** → **BUILD** → **BREAK** → **DEBUG** → **IMPROVE** → **REPEAT**
-
-</div>
-
-<!-- ===================================================== -->
-<!-- 2026 GOALS                                             -->
-<!-- ===================================================== -->
-
-## 🎯 2026 Goals
-
-<table width="100%">
-<tr>
-<td align="center" width="14%">⚡<br/><b>Master JS</b></td>
-<td align="center" width="14%">⚙️<br/><b>Learn Backend</b></td>
-<td align="center" width="14%">🧠<br/><b>Master DSA</b></td>
-<td align="center" width="14%">💻<br/><b>Build Projects</b></td>
-<td align="center" width="14%">🏆<br/><b>Hackathons</b></td>
-<td align="center" width="14%">🌐<br/><b>Full-Stack</b></td>
-<td align="center" width="14%">🚀<br/><b>Software Dev</b></td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 2026 Goals & Roadmap</h3>
+      <ul>
+        <li>⚡ Master JavaScript</li>
+        <li>⚙️ Learn Backend Architecture</li>
+        <li>🧠 Master Data Structures & Algorithms</li>
+        <li>💻 Build Complex Real-World Projects</li>
+        <li>🏆 Participate & Win in Hackathons</li>
+        <li>🌐 Become a Full-Stack Developer</li>
+        <li>🚀 Secure a Software Developer Role</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Open To</h3>
+      <ul>
+        <li>👥 Collaboration on projects</li>
+        <li>💻 Web development opportunities</li>
+        <li>🏆 Hackathon teams</li>
+        <li>🌍 Open source contributions</li>
+        <li>💬 Developer communities</li>
+        <li>📚 Continuous learning</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-<!-- ===================================================== -->
-<!-- OPEN TO                                                -->
-<!-- ===================================================== -->
+<br>
 
-## 🤝 Open To
-
-- 🤝 Collaboration
-- 🌐 Web development projects
-- 🏆 Hackathons
-- 📖 Open source contributions
-- 👥 Developer communities
-- 📚 Learning opportunities
-
-<!-- ===================================================== -->
-<!-- CONNECT WITH ME                                        -->
-<!-- ===================================================== -->
-
-## 📬 Connect With Me
-
+<h2 align="center">📫 Connect With Me</h2>
 <div align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://github.com/maneprajwal006-alt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-<a href="https://github.com/maneprajwal006-alt">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<!-- Replace YOUR_LINKEDIN_URL below with your actual LinkedIn profile URL -->
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<!-- Replace YOUR_EMAIL below with your actual email address -->
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
-<!-- ===================================================== -->
-<!-- FOOTER                                                 -->
-<!-- ===================================================== -->
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=150&section=footer&text=Building%20Today%20%E2%80%A2%20Learning%20Tomorrow%20%E2%80%A2%20Creating%20the%20Future&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=maneprajwal006-alt&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:3b82f6,0:8b5cf6&height=150&section=footer&text=Building%20Today%20•%20Learning%20Tomorrow%20•%20Creating%20the%20Future&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="Footer" width="100%" />
+</div>
