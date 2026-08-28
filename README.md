@@ -1,3 +1,5 @@
+
+<!-- HEADER SECTION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Prajwal%20Mane&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descAlign=50" alt="Header" width="100%" />
 
@@ -8,19 +10,21 @@
 
 <br>
 
+<!-- PROFILE ANIMATION -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPvdGcGcs/giphy.gif" alt="Coding GIF" width="250" style="border-radius: 15px;" />
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/5126218280659009110" alt="Futuristic AI Coding" width="400" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 255, 255, 0.3);" />
 </div>
 
 <br>
 
+<!-- ABOUT ME SECTION -->
 <h2 align="center">🚀 About Me</h2>
 
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
       <h3>Hey there! 👋</h3>
-      <p>I am a passionate <strong>Computer Science Engineering</strong> student at the Ashokrao Mane Group of Institutions. I have a strong foundation in frontend development and am actively expanding my skill set to become a Full-Stack Developer. I thrive on problem-solving, building real-world projects, and constantly learning new technologies.</p>
+      <p>I am a passionate <strong>Computer Science Engineering</strong> student at the Ashokrao Mane Group of Institutions. I have a strong foundation in frontend development and am actively expanding my skill set to become a Full-Stack Developer. I thrive on problem-solving, building real-world architecture, and constantly learning new technologies.</p>
       <p>My core focus right now is mastering <strong>JavaScript, Node.js, and Data Structures & Algorithms</strong> to build robust, scalable applications.</p>
     </td>
     <td width="40%" valign="top">
@@ -31,7 +35,6 @@
         <li>⚡ <strong>Focus:</strong> JavaScript, Node.js</li>
         <li>⚙️ <strong>Backend:</strong> Express & REST APIs</li>
         <li>🧠 <strong>Core:</strong> DSA & Problem Solving</li>
-        <li>🚀 <strong>Status:</strong> Building Projects</li>
         <li>🏆 <strong>Goal:</strong> Hackathons & Open Source</li>
       </ul>
     </td>
@@ -40,221 +43,82 @@
 
 <br>
 
-<h2 align="center">🛤️ Developer Journey</h2>
-<div align="center">
-  <p>
-    <kbd>HTML</kbd> ➔ <kbd>CSS</kbd> ➔ <kbd>Bootstrap</kbd> ➔ <kbd>JavaScript</kbd> ➔ <kbd>Node.js</kbd> ➔ <kbd>Express.js</kbd> ➔ <kbd>REST APIs</kbd> ➔ <kbd>Backend</kbd> ➔ <kbd>DSA</kbd> ➔ <kbd>Full Stack</kbd>
-  </p>
-</div>
+<!-- UNIQUE INTERESTS: 3D MODELING & AI -->
+<h2 align="center">🎨 Beyond The Code: Creative Tech & The revised layout replaces the traditional project grid with a dynamic academic showcase, featuring CSS glassmorphism, floating animations, and placeholder slots for external images.
 
-<br>
+**Key Additions**
+*   **Floating Elements:** CSS keyframe animations that create a continuous, smooth levitation effect on the main profile headers.
+*   **Glassmorphism Design:** Semi-transparent, blurred card backgrounds for a modern, sleek aesthetic.
+*   **Interactive Image Gallery:** Hover-triggered scaling and shadow effects to present unique interests rather than standard project lists.
 
-<h2 align="center">🛠️ My Tech Stack</h2>
+**HTML & CSS Implementation**
 
-<div align="center">
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" alt="Frontend Skills" />
-  <br>
-  
-  <h3>Programming & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,nodejs,express" alt="Backend Skills" />
-  <br>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Profile</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: system-ui, sans-serif;
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            color: white;
+            overflow-x: hidden;
+        }
 
-  <h3>Tools & Version Control</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" alt="Tools" />
-</div>
+        /* Floating Animation */
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-15px); }
+            100% { transform: translateY(0px); }
+        }
 
-<br>
+        .hero-section {
+            text-align: center;
+            padding: 100px 20px 40px;
+            animation: float 4s ease-in-out infinite;
+        }
 
-<h2 align="center">💻 Project Showcase</h2>
+        .hero-section h1 {
+            font-size: 3rem;
+            background: -webkit-linear-gradient(#4facfe, #00f2fe);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔗 Linktree Clone</h3>
-      <p>A responsive Linktree-style website for displaying social media and personal links.</p>
-      <p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
-      <p><strong>Features:</strong> Responsive design, Modern UI, JavaScript interactions.</p>
-      <div align="center">
-        <a href="YOUR_LINKTREE_REPOSITORY_URL"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Apna College Clone</h3>
-      <p>A responsive educational website created to practice frontend development and website layout.</p>
-      <p><strong>Technologies:</strong> HTML, CSS, Bootstrap</p>
-      <p><strong>Features:</strong> Responsive layout, Modern UI, Bootstrap components.</p>
-      <div align="center">
-        <a href="YOUR_APNA_COLLEGE_REPOSITORY_URL"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌤️ Weather App</h3>
-      <p>A weather application that fetches real-time weather information using an API.</p>
-      <p><strong>Technologies:</strong> HTML, CSS, JavaScript, API</p>
-      <p><strong>Features:</strong> API integration, Dynamic weather info, Responsive UI.</p>
-      <div align="center">
-        <a href="YOUR_WEATHER_APP_REPOSITORY_URL"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Amazon Clone</h3>
-      <p>A frontend e-commerce project created to practice website layouts and responsive design.</p>
-      <p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
-      <p><strong>Features:</strong> E-commerce UI, Responsive design, DOM manipulation.</p>
-      <div align="center">
-        <a href="YOUR_AMAZON_CLONE_REPOSITORY_URL"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
+        /* Glassmorphism Gallery (Replaces Projects) */
+        .gallery-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 30px;
+            padding: 20px 50px 80px;
+        }
 
-<br>
+        .glass-card {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 20px;
+            width: 320px;
+            transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s ease;
+            cursor: pointer;
+        }
 
-<h2 align="center">🏆 Achievements & Certifications</h2>
+        .glass-card:hover {
+            transform: translateY(-10px) scale(1.03);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+        }
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🌟 Academics</h3>
-      <img src="https://img.shields.io/badge/SGPA-9.59-06B6D4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="SGPA" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Division_Rank-1-8B5CF6?style=for-the-badge&logo=trophy&logoColor=white" alt="Rank" />
-    </td>
-    <td width="50%" align="center">
-      <h3>📜 Certifications</h3>
-      <img src="https://img.shields.io/badge/C++_Essentials_1-Cisco_Networking_Academy-3B82F6?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Hackathons-Ready_to_Participate-10B981?style=for-the-badge&logo=codeforces&logoColor=white" alt="Hackathons" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">📈 Skill Progress & Learning</h2>
-
-<div align="center">
-  <p><i>Currently deeply focusing on:</i></p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Advanced+JavaScript;Node.js+%26+Express.js;REST+APIs+%26+Backend;Data+Structures;Algorithms;Problem+Solving" alt="Currently Learning" />
-</div>
-
-<br>
-
-<div align="center">
-  <p><i>*Personal learning progress estimates, not professional ratings.</i></p>
-  <code>HTML & CSS : ████████████████████ 100%</code><br>
-  <code>Bootstrap  : ███████████████████░ 95% </code><br>
-  <code>JavaScript : ██████████████░░░░░░ 70% </code><br>
-  <code>Node.js    : ████████░░░░░░░░░░░░ 40% </code><br>
-  <code>DSA        : ███████░░░░░░░░░░░░░ 35% </code><br>
-  <code>Algorithms : ██████░░░░░░░░░░░░░░ 30% </code><br>
-  <code>Backend    : ██████░░░░░░░░░░░░░░ 30% </code><br>
-</div>
-
-<br>
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maneprajwal006-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maneprajwal006-alt&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneprajwal006-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
-</div>
-
-<br>
-
-<h2 align="center">🏅 GitHub Trophies</h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maneprajwal006-alt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-
-<br>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maneprajwal006-alt/maneprajwal006-alt/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
-<br>
-
-<h2 align="center">🧠 Coding Philosophy</h2>
-<div align="center">
-  <h3><i>"Don't just learn to code. Code to learn."</i></h3>
-  <br>
-  <p>
-    <kbd>💡 IDEA</kbd> ⬇️<br>
-    <kbd>📖 LEARN</kbd> ⬇️<br>
-    <kbd>🏗️ BUILD</kbd> ⬇️<br>
-    <kbd>💥 BREAK</kbd> ⬇️<br>
-    <kbd>🐛 DEBUG</kbd> ⬇️<br>
-    <kbd>✨ IMPROVE</kbd> ⬇️<br>
-    <kbd>🔁 REPEAT</kbd>
-  </p>
-</div>
-
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 2026 Goals & Roadmap</h3>
-      <ul>
-        <li>⚡ Master JavaScript</li>
-        <li>⚙️ Learn Backend Architecture</li>
-        <li>🧠 Master Data Structures & Algorithms</li>
-        <li>💻 Build Complex Real-World Projects</li>
-        <li>🏆 Participate & Win in Hackathons</li>
-        <li>🌐 Become a Full-Stack Developer</li>
-        <li>🚀 Secure a Software Developer Role</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤝 Open To</h3>
-      <ul>
-        <li>👥 Collaboration on projects</li>
-        <li>💻 Web development opportunities</li>
-        <li>🏆 Hackathon teams</li>
-        <li>🌍 Open source contributions</li>
-        <li>💬 Developer communities</li>
-        <li>📚 Continuous learning</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">📫 Connect With Me</h2>
-<div align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://github.com/maneprajwal006-alt">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maneprajwal006-alt&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:3b82f6,0:8b5cf6&height=150&section=footer&text=Building%20Today%20•%20Learning%20Tomorrow%20•%20Creating%20the%20Future&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="Footer" width="100%" />
-</div>
+        .glass-card img {
+            width: 100%;
+            border-radius: 10px;
+            height: 220px;
+            object-fit: cover;
+            transition: filter 0.3s ease;
+            filter: grayscale(20%);
+        }
